@@ -42,11 +42,11 @@ This project is developed with Selenium Java Page object model for Web applicati
 
 ## Project Structure:
 
-1. com.automation.tests : Test cases<br />
-2. com.automation.config : base folder whicch contains base class<br />
-3. com.automation.core : Payload json file<br />
-5. com.automation.helpers : Reusable utility<br />
-6. com.automation.pages :  <br />
-7. drivers :  <br />
-8. Reports :   <br />
+1. com.automation.tests : Test Cases<br />
+2. com.automation.config : Configuration files<br />
+3. com.automation.core : Base Class contains webdriver initialization<br />
+5. com.automation.helpers : helpers package includes reusable function classees<br />
+6. com.automation.pages : contains locators and steps <br />
+7. drivers : chromedriver. exe file <br />
+8. Reports :  generated extents reports <br />
 9. testng.xml : testng executable file<br />
